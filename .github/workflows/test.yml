@@ -18,4 +18,4 @@ jobs:
           pip install -r requirements.txt
           pip install nbconvert ipykernel
       - name: Run the notebook top to bottom
-        run: jupyter nbconvert --to notebook --execute Forecasting_CBC_Workbook.ipynb --output /tmp/executed.ipynb
+        run: jupyter nbconvert --to notebook --execute Forecasting_CBC_Workbook.ipynb --ExecutePreprocessor.kernel_name=python3 --output /tmp/executed.ipynb
