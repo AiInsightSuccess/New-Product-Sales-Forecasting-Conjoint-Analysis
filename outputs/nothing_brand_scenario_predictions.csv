@@ -1,0 +1,4 @@
+scenario_id,scenario_label,Brand,Price_$,Screen_Size_inch,Camera_Pixel_MP,Storage_GB,Folding,Battery life_Up_to_Days,predicted_purchase_probability,predicted_purchase_probability_percent
+1,Scenario 1,Nothing,300,6.5,48,256,Yes,3,0.03372145390993073,3.372145390993073
+2,Scenario 2,Nothing,700,6.7,48,512,No,3,0.044846791230661494,4.484679123066149
+3,Scenario 3,Nothing,1300,7,200,1024,No,5,0.026999346867071273,2.6999346867071274

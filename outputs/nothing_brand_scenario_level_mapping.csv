@@ -1,0 +1,22 @@
+scenario_id,scenario_label,feature,original_value,value_shown_in_prediction_table,model_input,handling,note
+1,Scenario 1,Brand,Nothing,Nothing,Nothing,exact listed categorical value,
+1,Scenario 1,Price_$,300,300,300,exact listed numeric value,
+1,Scenario 1,Screen_Size_inch,6.5,6.5,6.5,exact listed numeric value,
+1,Scenario 1,Camera_Pixel_MP,48,48,48,exact listed numeric value,
+1,Scenario 1,Storage_GB,256,256,256,exact listed numeric value,
+1,Scenario 1,Folding,Yes,Yes,Yes,exact listed categorical value,
+1,Scenario 1,Battery life_Up_to_Days,3,3,3,exact listed numeric value,
+2,Scenario 2,Brand,Nothing,Nothing,Nothing,exact listed categorical value,
+2,Scenario 2,Price_$,700,700,300 (0.111) | 750 (0.889),interpolated numeric value,Price_$: 700 interpolated between 300 and 750
+2,Scenario 2,Screen_Size_inch,6.7,6.7,6.5 (0.600) | 7 (0.400),interpolated numeric value,Screen_Size_inch: 6.7 interpolated between 6.5 and 7
+2,Scenario 2,Camera_Pixel_MP,48,48,48,exact listed numeric value,
+2,Scenario 2,Storage_GB,512,512,512,exact listed numeric value,
+2,Scenario 2,Folding,No,No,No,exact listed categorical value,
+2,Scenario 2,Battery life_Up_to_Days,3,3,3,exact listed numeric value,
+3,Scenario 3,Brand,Nothing,Nothing,Nothing,exact listed categorical value,
+3,Scenario 3,Price_$,1300,1300,1300,exact listed numeric value,
+3,Scenario 3,Screen_Size_inch,7.0,7,7,exact listed numeric value,
+3,Scenario 3,Camera_Pixel_MP,200,200,200,exact listed numeric value,
+3,Scenario 3,Storage_GB,1024,1024,1024,exact listed numeric value,
+3,Scenario 3,Folding,No,No,No,exact listed categorical value,
+3,Scenario 3,Battery life_Up_to_Days,5,5,5,exact listed numeric value,

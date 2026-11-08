@@ -1,0 +1,8 @@
+﻿Features,Features_Type,Level Number,Minimum,Maximum
+Brand,Categorical,5,,
+Price_$,Continuous,4,300,1300
+Screen_Size_inch,Discrete,4,5,7
+Camera_Pixel_MP,Continuous,4,20,200
+Storage_GB,Discrete,4,128,1024
+Folding,Categorical,2,,
+Battery life_Up_to_Days,Continuous,3,1,5

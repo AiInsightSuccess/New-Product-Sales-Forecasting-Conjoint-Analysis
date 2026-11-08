@@ -1,0 +1,2 @@
+n_observations,n_participants,n_profiles,n_features,positive_outcomes,positive_rate,log_likelihood,null_log_likelihood,likelihood_ratio_chi_square,likelihood_ratio_df,likelihood_ratio_p_value,mcfadden_pseudo_r2,aic,bic
+12000,200,60,7,1437,0.11975,-3399.4466351979427,-4397.119051510027,1995.3448326241687,19,0.0,0.22689229120814247,6838.893270395885,6986.746508971288
