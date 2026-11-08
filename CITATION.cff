@@ -1,1 +1,18 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "New Product Sales Forecasting with Choice-Based Conjoint Analysis"
+abstract: "Beginner-friendly Python notebook and sample data for forecasting purchase probability of new product scenarios using choice-based conjoint analysis and logistic regression."
+authors:
+  - name: "AI Insights for Success"
+    website: "https://www.aiinsightsuccess.com"
+license: MIT
+repository-code: "https://github.com/AiInsightSuccess/New-Product-Sales-Forecasting-Conjoint-Analysis"
+url: "https://www.aiinsightsuccess.com/blank-2-1"
+keywords:
+  - conjoint analysis
+  - sales forecasting
+  - purchase probability
+  - logistic regression
+  - new product development
+  - python
