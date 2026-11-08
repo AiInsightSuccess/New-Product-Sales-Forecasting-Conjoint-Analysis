@@ -1,4 +1,5 @@
 # New Product Sales Forecasting with Choice-Based Conjoint Analysis
+[![DOI](https://zenodo.org/badge/1450193286.svg)](https://doi.org/10.5281/zenodo.24060423)
 
 Free Python code and sample data from
 [AI Insights for Success](https://www.aiinsightsuccess.com/blank-2-1).
