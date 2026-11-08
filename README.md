@@ -11,7 +11,7 @@ scenarios.
 
 - **No Git?** Click the green **Code** button on this page, then
   **Download ZIP**, and unzip it.
-- **Using Git:** `git clone https://github.com/AiInsightSuccess/New-Product-Sales-Forecasting.git`
+- **Using Git:** `git clone https://github.com/AiInsightSuccess/New-Product-Sales-Forecasting-Conjoint-Analysis.git`
 
 Python 3.10 or newer is required (current Anaconda installs meet this).
 
